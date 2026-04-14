@@ -1,0 +1,7 @@
+{
+  "name": "qwen-proxy",
+  "version": "1.0.0",
+  "description": "OpenAI-compatible REST proxy for Qwen CLI",
+  "main": "server.js",
+  "type": "module"
+}
