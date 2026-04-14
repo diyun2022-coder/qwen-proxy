@@ -1,6 +1,6 @@
 # qwen-proxy
 
-一个轻量级的 HTTP 代理服务，将 **Anthropic Messages API** 格式的请求转发给本地 `qwen` CLI，让你可以用任何支持 Anthropic/Claude API 的工具（如 Claude Code、Cursor、Continue 等）驱动 Qwen 模型。
+一个轻量级的 HTTP 代理服务，将 **Anthropic Messages API** 格式的请求转发给本地 `qwen` CLI，让你可以用任何支持 Anthropic/Claude API 的工具（如 Claude Code、Cursor、OpenCode 等）驱动 Qwen 模型。
 
 ## 工作原理
 
